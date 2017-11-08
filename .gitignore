@@ -1,0 +1,6 @@
+.vs
+*/bin
+packages
+*/obj
+Logs
+*/App_Data
